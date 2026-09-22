@@ -19,8 +19,8 @@ Steps:
 4. Click the "Login" button
 5. Observe the product listing page
 
-Expected Result: User logs in successfully and sees the product listing page with all product images displaying correctly
-Actual Result: User logs in successfully and sees the product listing page with all product images displaying correctly
+Expected Result: User logs in successfully and sees the product listing page
+Actual Result: User logs in successfully and sees the product listing page
 Status: Pass
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
